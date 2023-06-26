@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6a14132-c0ab-4298-bd08-de2755a52794" name="Changes" comment="sdfsdf">
-      <change afterPath="$PROJECT_DIR$/client/src/UserContext.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/LoginPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/LoginPage.js" afterDir="false" />
-    </list>
+    <list default="true" id="d6a14132-c0ab-4298-bd08-de2755a52794" name="Changes" comment="sdfsdf" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +52,7 @@
       <workItem from="1687040053140" duration="346000" />
       <workItem from="1687632821554" duration="12203000" />
       <workItem from="1687646897471" duration="584000" />
-      <workItem from="1687803949994" duration="4711000" />
+      <workItem from="1687803949994" duration="5012000" />
     </task>
     <task id="LOCAL‎-00001" summary="rtert">
       <created>1686774412052</created>
