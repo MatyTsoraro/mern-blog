@@ -1,4 +1,4 @@
-import React from "react";
+import React, {useState} from "react";
 import ReactQuill from "react-quill";
 import 'react-quill/dist/quill.snow.css';
 
@@ -25,6 +25,7 @@ export default function CreatePost(){
     const[summary, setSummary] = useState('');
     const[content, setContent] = useState('');
     const[files, setFiles] = useState('');
+    const[redirect, setRedirect] = useState(false);
     async function createNewPost(ev){
         const data = new FormData();
         data.set('title', title);
@@ -36,9 +37,16 @@ export default function CreatePost(){
              method:'POST',
              body: data,
          });
-        response.json();
+        if (response.ok){
+            setRedirect(true);
+        }
+        //response.json();
 
 
+    }
+
+    if(redirect){
+       return  <nevigate to = {'/'} />
     }
 
 
