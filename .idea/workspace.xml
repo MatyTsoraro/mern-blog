@@ -7,8 +7,7 @@
     <list default="true" id="d6a14132-c0ab-4298-bd08-de2755a52794" name="Changes" comment="sdfsdfertert">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/models/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/models/Post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Post.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/pages/CreatePost.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/CreatePost.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/client/src/pages/IndexPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/IndexPage.js" afterDir="false" />
@@ -66,7 +65,8 @@
       <workItem from="1687646897471" duration="584000" />
       <workItem from="1687803949994" duration="5096000" />
       <workItem from="1688237553358" duration="10120000" />
-      <workItem from="1688404776998" duration="4600000" />
+      <workItem from="1688404776998" duration="4785000" />
+      <workItem from="1688492598230" duration="4256000" />
     </task>
     <task id="LOCAL‎-00001" summary="rtert">
       <created>1686774412052</created>
