@@ -4,17 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6a14132-c0ab-4298-bd08-de2755a52794" name="Changes" comment="sdfsdfertert">
-      <change afterPath="$PROJECT_DIR$/client/src/Editor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/src/pages/EditPost.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/Post.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/Post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client/src/pages/PostPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/PostPage.js" afterDir="false" />
-    </list>
+    <list default="true" id="d6a14132-c0ab-4298-bd08-de2755a52794" name="Changes" comment="sdfsdfertert" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +61,7 @@
       <workItem from="1688404776998" duration="4785000" />
       <workItem from="1688492598230" duration="4256000" />
       <workItem from="1688578157730" duration="4559000" />
-      <workItem from="1688663988320" duration="10937000" />
+      <workItem from="1688663988320" duration="11589000" />
     </task>
     <task id="LOCAL‎-00001" summary="rtert">
       <created>1686774412052</created>
@@ -108,7 +98,14 @@
       <option name="project" value="LOCAL‎" />
       <updated>1688583316252</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL‎-00006" summary="sdfsdfertert">
+      <created>1688676278458</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL‎-00006" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1688676278478</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
